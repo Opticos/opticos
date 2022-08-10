@@ -1,0 +1,22 @@
+{
+  "categories": {
+    "one": [
+      "category",
+      "anothercategory"
+    ],
+    "two": [
+      "etc"
+    ]
+  },
+  "issues": {
+    "issueone": {
+      "blabla": "",
+      "etc": "Test Footnote"
+    },
+    "issuetwo": {
+      "howdy": "test footnote",
+      "hello": "",
+      "hi": "test another footnote"
+    }
+  }
+}
